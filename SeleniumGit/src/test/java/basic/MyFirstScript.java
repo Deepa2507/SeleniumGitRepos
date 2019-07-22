@@ -17,7 +17,7 @@ public class MyFirstScript {
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		
-		System.out.println("My first maven project script");
+		System.out.println("My second maven project script");
 		
 		driver.quit();
 		
